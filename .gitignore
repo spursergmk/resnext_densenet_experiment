@@ -1,0 +1,11 @@
+pycache/
+*.pyc
+*.pth
+checkpoints/
+runs/
+data/
+*.log
+.DS_Store
+*.png
+*.csv
+*.json
